@@ -8,7 +8,7 @@ We are Group 3 from the School of System Design and Intelligent Manufacturing (S
 
 ### Design and Functionality
 
-In terms of appearance, we have conducted emotional ergonomics measurements and established engineering features to create a design that meets the enterprise's demands for a sense of technology and reliability. Functionally, we have broken down the requirements into four aspects: movement, scanning, scheduling, and management. We have implemented various technical solutions, including:
+In terms of appearance, we have conducted Kansei Engineering measurements and established engineering features to create a design that meets the enterprise's demands for a sense of technology and reliability. Functionally, we have broken down the requirements into four aspects: movement, scanning, scheduling, and management. We have implemented various technical solutions, including:
 
 - A screw rail scanner lifting mechanism
 - Ultra-wideband wireless communication for centimeter-level machine positioning
