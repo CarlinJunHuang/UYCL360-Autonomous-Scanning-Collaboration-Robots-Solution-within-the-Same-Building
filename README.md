@@ -17,8 +17,8 @@ In terms of appearance, we have conducted emotional ergonomics measurements and 
 - Part simulation and optimization using Abaqus
 - APP and physical controller design compliant with ergonomics
 
-For a detailed overview, please refer to our core selling points image below:
-![Core Selling Points](xxxx.png)
+For a detailed overview, please refer to our key selling points image below:
+![Key Selling Points](UYCL360_KVandKSP.png)
 
 ### Open Source Commitment
 
