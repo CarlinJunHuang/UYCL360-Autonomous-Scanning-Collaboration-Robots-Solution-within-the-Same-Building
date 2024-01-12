@@ -1,8 +1,6 @@
-# 2023Fall_SDM314_Group3
+# Autonomous Scanning Collaboration Solution within the Same Building
 
-# SDIM Group 3 - Fall 2023 at Southern University of Science and Technology
-
-## Autonomous Scanning Collaboration Solution within the Same Building
+## SDIM Group 3 - Fall 2023 at Southern University of Science and Technology
 
 We are Group 3 from the School of System Design and Intelligent Manufacturing (SDIM) during the Fall 2023 semester at Southern University of Science and Technology. We have proposed an autonomous scanning solution designed for collaborative operation within the same building. This solution is aimed at alleviating the physical labor burden of technical workers in construction site measurement and quantification tasks.
 
