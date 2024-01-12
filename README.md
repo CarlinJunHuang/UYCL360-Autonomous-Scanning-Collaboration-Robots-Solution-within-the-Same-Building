@@ -24,6 +24,7 @@ For a detailed overview, please refer to our key selling points image below:
 
 We are committed to open-sourcing as many of the technologies and techniques we have applied as possible, with the hope of aiding your learning journey. 
 However, please note that some documentation may involve third-party commercial copyrights, and we will upload such material after proper anonymization and consideration.
+By the way, in most cases our source text or files in this article are in Chinese. But we will try our best to translate the parts that can be translated into English via DeepL or Google Translate.
 
 ### How You Can Contribute
 
